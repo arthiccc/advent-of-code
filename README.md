@@ -13,6 +13,7 @@ I have been working on the following days:
 *   **Day 6:** Solved using Rust.
 *   **Day 7:** Solved using C++.
 *   **Day 8:** Solved using Zig.
+*   **Day 9:** Solved using Python (with uv and shapely).
 
 ## Usage
 
