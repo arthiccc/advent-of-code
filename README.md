@@ -13,6 +13,8 @@ I have been working on the following days:
 *   **Day 6:** Solved using Rust.
 *   **Day 7:** Solved using C++.
 *   **Day 8:** Solved using Zig.
+    *   **Part 1:** 171503
+    *   **Part 2:** 9069509600
 
 ## Usage
 
